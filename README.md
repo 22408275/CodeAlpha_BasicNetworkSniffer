@@ -1,12 +1,10 @@
-# Basic Network Sniffer
+# CodeAlpha Cyber Security Internship Tasks
 
-This project captures network packets using Python and the Scapy library.
-
-It displays:
+## Task 1: Network Sniffer
+A Python-based packet sniffer that captures and displays:
 - Source IP
 - Destination IP
 - Protocol
 
-Tools:
-Python
-Scapy
+## Task 4: Network Intrusion Detection System (IDS)
+Network traffic captured using Wireshark and analyzed to identify potential suspicious packets.
